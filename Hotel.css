@@ -1,0 +1,37 @@
+nav{
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    }
+
+a{
+    padding: 10px;
+    color:  black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: arial black;
+}
+
+a:hover{
+    background-color: rgb(246,246,255);
+    padding: 10px;
+    border-radius: 5px;
+    border-bottom: 2px solid blue;
+    }
+
+body{
+    background-image: url('https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+ 
+h1{
+    text-align: center;
+    color: sandybrown;
+    margin-top: 25px;
+}    
+
+h2{
+    text-align: center;
+    color: aqua;
+}
